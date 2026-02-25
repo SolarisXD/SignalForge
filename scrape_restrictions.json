@@ -1,0 +1,15 @@
+{
+  "allowed_sources": {
+    "career": ["https://www.linkedin.com/pulse/", "https://www.hbr.org/topic/career"],
+    "ai": ["https://www.aitrends.com/", "https://www.analyticsvidhya.com/blog/category/artificial-intelligence/"],
+    "discipline": ["https://www.lifehack.org/articles/productivity", "https://www.inc.com/tag/discipline"],
+    "personal_brand": ["https://www.forbes.com/sites/forbescoachescouncil/", "https://www.socialmediaexaminer.com/personal-branding/"],
+    "other": []
+  },
+  "keywords": ["career", "ai", "discipline", "brand", "leadership", "productivity", "strategy", "growth", "innovation", "tech","technology"],
+  "exclude": [
+    "advertisement", "sponsored", "promo",
+    "tips", "advice", "success", "motivation", "growth", "productivity", "leadership", "career", "job", "jobs", "work", "working", "employer", "employee", "employment", "mentor", "mentorship", "intern", "internship", "promotion", "hiring", "fired", "layoff", "resume", "cv", "interview", "salary", "raise", "boss", "manager", "team lead", "office", "corporate", "company", "organization", "startup", "founder", "ceo", "cto", "cfo", "hr", "human resources", "networking", "colleague", "colleagues", "peer", "peers", "reference", "recommendation", "headhunter", "headhunting", "headhunt", "headhunted", "headhunter", "headhunting", "headhunt", "headhunted",
+    "how to", "top 10", "top 5", "top 3", "best practices", "common mistakes", "trends", "future", "insights", "update", "news"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "career": [
+    {
+      "topic": "1. \"Reflecting on my journey in the marketing industry: Lessons learned and insights shared.\"",
+      "image": null
+    },
+    {
+      "topic": "2. \"The power of mentorship in shaping a successful career path: My experience and advice for others.\"",
+      "image": null
+    },
+    {
+      "topic": "3. \"Embracing change: Adapting to new technologies in project management and the impact on my role.\"",
+      "image": null
+    },
+    {
+      "topic": "4. \"How I navigated a career transition into the field of sustainable energy solutions and the lessons I've learned.\"",
+      "image": null
+    },
+    {
+      "topic": "5. \"Cultivating a growth mindset: Strategies for continuous learning and career advancement.\"",
+      "image": null
+    },
+    {
+      "topic": "6. \"The art of effective communication in leadership roles: My approach to fostering collaboration and success.\"",
+      "image": null
+    },
+    {
+      "topic": "7. \"Lessons from leading diverse teams: Embracing different perspectives and promoting inclusivity.\"",
+      "image": null
+    },
+    {
+      "topic": "8. \"Exploring the intersection of design thinking and business strategy: Case studies from my career.\"",
+      "image": null
+    },
+    {
+      "topic": "9. \"How I leveraged networking and industry events to expand my professional network and advance my career.\"",
+      "image": null
+    },
+    {
+      "topic": "10. \"The evolving landscape of the HR sector: My thoughts on the challenges, opportunities, and future trends.\"",
+      "image": null
+    }
+  ],
+  "ai": [
+    {
+      "topic": "Artificial IntelligenceLLMsGemini 3.1 Pro: A Hands-On Test of Google’s Newest AIA deep dive into Google's Gemini 3.1 Pro. We put the new model to the test on complex reasoning, code generation, and long-context analysis.Vasu Deo Sankrityayan23 Feb, 2026",
+      "image": "https://www.analyticsvidhya.com/wp-content/themes/analytics-vidhya/icon/av-logo-svg.svg"
+    },
+    {
+      "topic": "Artificial IntelligencePrompt EngineeringWhat is Prompt Chaining?Learn how prompt chaining breaks complex tasks into steps for better accuracy, fewer hallucinations, and cleaner results. Try Now!Sarthak Dogra17 Feb, 2026",
+      "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/02/Collaborative-Filtering.webp-1.webp"
+    },
+    {
+      "topic": "AI AgentsArtificial IntelligenceLLMsGuide to Build a Data Analysis & Visualization Agent Using Swarm ArchitectureA step-by-step guide to building a data analyst and data visualization agent system using swarm architecture.Vipin Vashisth12 Feb, 2026",
+      "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/02/What-is-Prompt-Chaining-and-How-is-it-Better-Than-Any-Prompt-You-Use.png"
+    },
+    {
+      "topic": "Generative AI Tools and Techniques",
+      "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/02/wce-fb-1.webp"
+    },
+    {
+      "topic": "Popular GenAI Models",
+      "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/02/wce-fb-1.webp"
+    },
+    {
+      "topic": "Data Science Tools and Techniques",
+      "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2026/02/wce-fb-1.webp"
+    },
+    {
+      "topic": "Enter email address to continue",
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "topic": "1. Exploring the Impact of AI on Supply Chain Management: A Case Study Analysis",
+      "image": null
+    },
+    {
+      "topic": "2. The Role of AI in Predictive Maintenance and Preventing Equipment Failures",
+      "image": null
+    },
+    {
+      "topic": "3. Demystifying AI Ethics: Navigating the Moral Landscape of Artificial Intelligence",
+      "image": null
+    },
+    {
+      "topic": "4. Leveraging AI for Personalized Customer Experience: Insights from Industry Leaders",
+      "image": null
+    },
+    {
+      "topic": "5. AI-Powered Decision Making in Finance: A New Era of Investment Strategies",
+      "image": null
+    },
+    {
+      "topic": "6. The Intersection of AI and Cybersecurity: Protecting Our Digital World",
+      "image": null
+    },
+    {
+      "topic": "7. Enhancing Healthcare with AI: Diagnosis, Treatments, and Beyond",
+      "image": null
+    },
+    {
+      "topic": "8. Sustainable AI Development: Balancing Technological Advancement with Environmental Responsibility",
+      "image": null
+    },
+    {
+      "topic": "9. The Artistic Side of AI: Generative Adversarial Networks and Creative Collaborations",
+      "image": null
+    },
+    {
+      "topic": "10. Exploring the Future of Human-AI Collaboration: Redefining Workforce Dynamics in the Digital Age",
+      "image": null
+    }
+  ],
+  "discipline": [
+    {
+      "topic": "1. \"Unraveling the Power of Discipline: Personal Stories of Overcoming Challenges\"",
+      "image": null
+    },
+    {
+      "topic": "2. \"The Art of Self-Mastery: Cultivating Discipline in Daily Habits\"",
+      "image": null
+    },
+    {
+      "topic": "3. \"Breaking Barriers: How Discipline Transforms Professional Lives\"",
+      "image": null
+    },
+    {
+      "topic": "4. \"Discipline and the Pursuit of Excellence: A Look at Elite Athletes' Journeys\"",
+      "image": null
+    },
+    {
+      "topic": "5. \"The Role of Discipline in Navigating Change: Insights from Industry Leaders\"",
+      "image": null
+    },
+    {
+      "topic": "6. \"Discipline vs. Perseverance: Understanding the Differences and Importance in Personal Development\"",
+      "image": null
+    },
+    {
+      "topic": "7. \"The Impact of Discipline on Mental Health: A Deep Dive into Research Findings\"",
+      "image": null
+    },
+    {
+      "topic": "8. \"Creating a Disciplined Mindset: Strategies for Long-Term Success\"",
+      "image": null
+    },
+    {
+      "topic": "9. \"Exploring the History of Discipline: Lessons from Ancient Philosophers and Leaders\"",
+      "image": null
+    },
+    {
+      "topic": "10. \"Discipline in the Digital Age: Balancing Technology Use with Daily Routines\"",
+      "image": null
+    }
+  ],
+  "personal_brand": [
+    {
+      "topic": "1. \"Highlighting my recent achievement in project management: reducing timelines by 30% while maintaining quality.\"",
+      "image": null
+    },
+    {
+      "topic": "2. \"Sharing insights from my latest research on sustainable business practices – let's discuss how these can be implemented in today's industry.\"",
+      "image": null
+    },
+    {
+      "topic": "3. \"Celebrating 5 years of professional growth and learning in the field of data analytics, here are some key lessons I've learned along the way.\"",
+      "image": null
+    },
+    {
+      "topic": "4. \"Exploring the intersection of technology and creativity in my work – find out how I'm using AI to revolutionize graphic design.\"",
+      "image": null
+    },
+    {
+      "topic": "5. \"Reflecting on a successful team collaboration that led to launching an innovative product – let's talk about what made it successful.\"",
+      "image": null
+    },
+    {
+      "topic": "6. \"Diving deep into the world of UX/UI design: my thoughts on current trends and challenges in creating user-friendly interfaces.\"",
+      "image": null
+    },
+    {
+      "topic": "7. \"Inspiring story of resilience: how I overcame a major setback and came back stronger in my career.\"",
+      "image": null
+    },
+    {
+      "topic": "8. \"Exploring the impact of diversity and inclusion initiatives on company culture – my personal experience and perspective.\"",
+      "image": null
+    },
+    {
+      "topic": "9. \"Discussing the role of emotional intelligence in leadership: strategies I've used to build strong, collaborative teams.\"",
+      "image": null
+    },
+    {
+      "topic": "10. \"Uncovering the hidden benefits of lifelong learning: why investing in professional development is crucial for career advancement.\"",
+      "image": null
+    }
+  ]
+}
